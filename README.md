@@ -47,7 +47,7 @@ B = np.array(eval(input()))
 lu, piv = lu_factor(A)
 x = lu_solve((lu, piv),B)
 print(x)
-
+```
 ## Output:
 
 <img width="768" height="289" alt="image" src="https://github.com/user-attachments/assets/8dc8f545-698b-45bb-a3e3-eeb087819a85" />
