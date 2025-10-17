@@ -50,9 +50,13 @@ print(x)
 
 ## Output:
 ![lu decomposition]()
-<img width="687" height="537" alt="Screenshot 2025-10-17 122213" src="https://github.com/user-attachments/assets/ed4e2bb2-f010-4eef-94e2-83774e22e07e" />
 
-<img width="518" height="382" alt="Screenshot 2025-10-17 122318" src="https://github.com/user-attachments/assets/863448f3-cf23-4772-952b-54adc4d0ca18" />
+<img width="777" height="609" alt="image" src="https://github.com/user-attachments/assets/ffd44ed3-1d90-42e8-a924-f96b61a12c8f" />
+
+
+<img width="591" height="430" alt="image" src="https://github.com/user-attachments/assets/eb9750d0-c86b-406a-b377-daf2cfe954f2" />
+
+
 ## Result:
 Thus the program to find the LU Decomposition of a matrix is written and verified using python programming.
 
