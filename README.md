@@ -48,7 +48,9 @@ lu, piv = lu_factor(A)
 x = lu_solve((lu, piv),B)
 print(x)
 
-## Output:<img width="768" height="289" alt="image" src="https://github.com/user-attachments/assets/8dc8f545-698b-45bb-a3e3-eeb087819a85" />
+## Output:
+
+<img width="768" height="289" alt="image" src="https://github.com/user-attachments/assets/8dc8f545-698b-45bb-a3e3-eeb087819a85" />
 <img width="1175" height="390" alt="image" src="https://github.com/user-attachments/assets/a4b0e720-8a89-4650-9979-a2b585be0462" />
 <img width="851" height="756" alt="image" src="https://github.com/user-attachments/assets/845082fb-0696-40a7-aecd-69169db534b8" />
 
