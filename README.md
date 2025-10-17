@@ -49,9 +49,9 @@ x = lu_solve((lu, piv),B)
 print(x)
 
 ## Output:
-![lu decomposition]()
-<img width="806" height="563" alt="image" src="https://github.com/user-attachments/assets/1a574658-780a-423f-a767-e0939126742a" />
-<img width="551" height="477" alt="image" src="https://github.com/user-attachments/assets/acac1949-ce46-4365-abb7-23c6108987bb" />
+<img width="687" height="537" alt="Screenshot 2025-10-17 122213" src="https://github.com/user-attachments/assets/e57f711e-607e-4511-aac2-4473fc488c8b" />
+<img width="592" height="431" alt="Screenshot 2025-10-17 130539" src="https://github.com/user-attachments/assets/21e654db-ed5a-4949-8305-66405cbd09f3" />
+
 ## Result:
 Thus the program to find the LU Decomposition of a matrix is written and verified using python programming.
 
